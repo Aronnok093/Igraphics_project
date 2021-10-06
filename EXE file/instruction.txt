@@ -1,0 +1,6 @@
+You dont need any ide to run this project.
+step 1: download triggo.zip file.
+step 2: unzip it.
+step 3: inside you will find triggo_mark-1.exe file. just run it.
+
+"programmers never die"
