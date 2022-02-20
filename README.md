@@ -20,7 +20,7 @@ ways for animation, keyboard and mouse event handling<br/><br/>
 ## How to Run This Project:<br/>
 _Download This Project and Then fallow method 1 or method 2_<br/>
 ### Method 1: <br/>
-```Method one dont need to install visual studio IDE```<br\>
+```Method one dont need to install visual studio IDE```<br/>
 :point_right: open folder **EXE File** <br/>
 :point_right: open folder **triggo** <br/>
 :point_right: open **TriggoMark_1.exe**<br/>
