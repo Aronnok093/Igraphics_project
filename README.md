@@ -26,7 +26,9 @@ _Download This Project and Then fallow method 1 or method 2_<br/>
 :point_right: open **TriggoMark_1.exe**<br/>
 
 ### Method 2: <br/>
-```Method one need to install visual studio IDE```<br/>
+```Method Two need to install visual studio IDE```<br/>
 ```You can modify code```<br/>
 :point_right:open folder **TriggoMark_1**<br/>
 :point_right:open **TriggoMark_1.sln** <br/>
+### SnapShot: :camera:<br/>
+![Screenshot (81)](https://user-images.githubusercontent.com/64925270/154833889-b96ababe-806b-4083-83e1-0b344c78b137.png)
